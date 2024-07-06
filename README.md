@@ -14,8 +14,8 @@ CSS3: Styling and responsiveness
 JavaScript: Functionality and interactivity
 
 Usage
-Clone: git clone https://github.com/your-username/calculator-website.git
-Navigate: cd calculator-website
+Clone: git clone https://github.com/VIVEKPADIYAR2003/Calculator.git
+Navigate: cd calculator
 Open: index.html in your browser
 
 Contributing
